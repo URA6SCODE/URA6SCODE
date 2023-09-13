@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Uras Celikdemir</h1>
-<h3 align="center">A passionate Frontend Developer from London</h3>
+<h3 align="center">A passionate Software Developer from London</h3>
 
 - 🔭 I’m currently working on [DocSight](https://www.docsight.me/)
 
