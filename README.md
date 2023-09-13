@@ -12,9 +12,9 @@
 <!-- Social icons section -->
 
 <p align="center">
-  <a href="https://twitter.com/celikdemir97465"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  <a href="https://www.linkedin.com/in/yusuf-uras-celikdemir-a85260137/"><img width="32px" alt="Linkedin" title="LinkedIn profile" src="https://imgur.com/OQUXwNp.png"/></a>
-  <a href="https://www.instagram.com/yusufurascelikdemir/"><img width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/646LsGy.png"/></a>
+  <a href="https://twitter.com/celikdemir97465"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/yusuf-uras-celikdemir-a85260137/"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
+  <a href="https://www.instagram.com/yusufurascelikdemir/"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg" alt="website" style="max-width: 100%;"></a>
 </p>
 
 
