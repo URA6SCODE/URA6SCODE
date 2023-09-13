@@ -12,7 +12,7 @@
 <!-- Social icons section -->
 
 <p align="center">
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/celikdemir97465"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/yusuf-uras-celikdemir-a85260137/"><img width="32px" alt="Linkedin" title="LinkedIn profile" src="https://imgur.com/OQUXwNp"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
