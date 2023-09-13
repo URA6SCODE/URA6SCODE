@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Uras Celikdemir</h1>
 <h3 align="center">A passionate Frontend Developer from London</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ura6scode&label=Profile%20views&color=0e75b6&style=flat" alt="ura6scode" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ura6scode" alt="ura6scode" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/celikdemir97465" target="blank"><img src="https://img.shields.io/twitter/follow/celikdemir97465?logo=twitter&style=for-the-badge" alt="celikdemir97465" /></a> </p>
-
 - 🔭 I’m currently working on [DocSight](https://www.docsight.me/)
 
 - 🌱 I’m currently learning **React + Javascript**
