@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/yusuf-uras-celikdemir-a85260137/"><img width="32px" alt="Linkedin" title="LinkedIn profile" src="https://imgur.com/OQUXwNp"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/yusufurascelikdemir/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/646LsGy"/></a>
+  <a href="https://www.instagram.com/yusufurascelikdemir/"><img width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/646LsGy"/></a>
 </p>
 
 
