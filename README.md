@@ -29,10 +29,10 @@
 <img align="left" display="block" src="https://github-readme-stats.vercel.app/api/top-langs?username=ura6scode&show_icons=true&locale=en&layout=compact" alt="ura6scode" />
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ura6scode&show_icons=true&locale=en" alt="ura6scode" />
+<img align="left" display="block" src="https://github-readme-stats.vercel.app/api?username=ura6scode&show_icons=true&locale=en" alt="ura6scode" />
 <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ura6scode&" alt="ura6scode" /></p>
-
+<img align="left" display="block" src="https://github-readme-streak-stats.herokuapp.com/?user=ura6scode&" alt="ura6scode" />
+<br>
 <p><a href="https://ko-fi.com/heeyyy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="heeyyy" /></a></p><br><br>
 
