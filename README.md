@@ -26,7 +26,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ura6scode&show_icons=true&locale=en&layout=compact" alt="ura6scode" /></p>
+<p><img align="left" display="block" src="https://github-readme-stats.vercel.app/api/top-langs?username=ura6scode&show_icons=true&locale=en&layout=compact" alt="ura6scode" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ura6scode&show_icons=true&locale=en" alt="ura6scode" /></p>
 
